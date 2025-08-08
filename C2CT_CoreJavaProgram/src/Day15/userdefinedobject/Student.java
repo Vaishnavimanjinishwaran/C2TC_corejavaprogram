@@ -1,6 +1,6 @@
 package Day15.userdefinedobject;
 
-public class Student {
+
 	public class Student {
 		private int rollNo;
 		private String name;
@@ -48,4 +48,4 @@ public class Student {
 		}
 
 	}
-}
+
